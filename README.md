@@ -35,7 +35,7 @@
 <a href="https://www.codechef.com/users/recb_0313" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="recb_0313" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/neerajkannoujiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="neerajkumar73881" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/neerajkumarkannoujiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="neerajkumar7388011" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/neerajkumar7388011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="neerajkumar7388011" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/neerajkumarkannoujiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="neerajkumar7388011" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
