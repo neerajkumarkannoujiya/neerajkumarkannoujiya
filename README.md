@@ -29,12 +29,12 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/neeraj73880" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="neeraj73880" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/neeraj73880" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neeraj73880" height="30" width="40" /></a>
-<a href="https://www.facebook.com/neeraj.kannoujiya.90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="neeraj.kannoujiya.90" height="30" width="40" /></a>
-<a href="https://instagram.com/mr_neeraj_7388" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_neeraj_7388" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/neerajkumarkannoujiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neeraj73880" height="30" width="40" /></a>
+<a href="https://www.facebook.com/neerajkumarkannoujiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="neeraj.kannoujiya.90" height="30" width="40" /></a>
+<a href="https://instagram.com/neerajkumarkannoujiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_neeraj_7388" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/recb_0313" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="recb_0313" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/neerajkumar73881" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="neerajkumar73881" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/neerajkumar7388011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="neerajkumar7388011" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/neerajkannoujiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="neerajkumar73881" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/neerajkumarkannoujiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="neerajkumar7388011" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/neerajkumar7388011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="neerajkumar7388011" height="30" width="40" /></a>
 </p>
 
